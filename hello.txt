@@ -1,4 +1,8 @@
 Hello Everyone
 Team Leader:Sakshi Malvadkar
 Team Member:Sadhana Gawali
+<<<<<<< HEAD
 Team Member : Sakshee Phadtare
+=======
+Team member:Pritee Shinde
+>>>>>>> dca4bc1fde08f55e59f9483e7114b6a561df4399
